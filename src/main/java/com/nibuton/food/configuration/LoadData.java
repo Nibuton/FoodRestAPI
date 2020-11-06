@@ -48,10 +48,9 @@ public class LoadData {
 	      ingredientRepository.save(ingredient2);
 	      recipeRepository.save(recipe);
 	      recipeXIngredientRepository.save(recipeXIngredient1);
-	      recipeXIngredientRepository.save(recipeXIngredient2);
-	      some additional comments
-	      more additional comments
-	      */
+	      recipeXIngredientRepository.save(recipeXIngredient2);*/
+	      
+	      
 	    };
 	  }
 
